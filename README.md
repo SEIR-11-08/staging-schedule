@@ -3,20 +3,19 @@
   SEI Remote 11/08 Class Schedule
 </h1>
 
-
 ## Important Links
 
 - [Zoom Classroom](#)
 - [Class Recordings](https://github.com/SEIR-11-08/schedule/blob/master/class-recordings.md)
-- [Course Curriculum](https://github.com/SEIR-7-06/schedule/blob/master/course-curriculum.md)
-- [Class Culture/Expectations](https://github.com/SEIR-7-06/welcome-to-sei)
-- [Remote Class Expectations](https://github.com/SEIR-7-06/remote-class-expectations)
-- [How to Submit Deliverables](https://github.com/SEIR-7-06/deliverable-submissions)
-- [Installfest](https://github.com/SEIR-7-06/installfest)
+- [Course Curriculum](https://github.com/SEIR-11-08/schedule/blob/master/course-curriculum.md)
+- [Class Culture/Expectations](https://github.com/SEIR-11-08/welcome-to-sei)
+- [Remote Class Expectations](https://github.com/SEIR-11-08/remote-class-expectations)
+- [How to Submit Deliverables](https://github.com/SEIR-11-08/deliverable-submissions)
+- [Installfest](https://github.com/SEIR-11-08/installfest-osx)
 
 <br/>
 
-## Course Dates (Not Including Holidays)
+## Course Dates
 
 - November 8, 2021 - February 14th, 2022
 
@@ -29,50 +28,17 @@
 - December 24 - December 31
 - January 17
 
-
 <br/>
 
 ## TA Office Hours
 
 Mon - Fri: 8:00am - 9:00am Pacific Time<br />
 Mon - Thr: 6:00pm - 9:00pm Pacific Time<br />
-Sat + Sun: 11:00am - 3:00pm Pacific Time
-
-<br/>
-
-## Post Grad Roadmap
-
-<p>These two documents provide you with a roadmap of how to continue your studies and strengthen your understanding of the material from the SEI course. Included are additional coding challenges, resources, and prompts to keep you coding in the weeks post-graduation. We hope it provides a springboard that keeps you learning!</p>
-
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github.com/SEIR-7-06/Post-Cohort-Resources">Post-Cohort Resources</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
 
 <br />
 
-## JavaScript Code Challenges
-
-If/when you find yourself with extra time, please get started on the JavaScript Code Challenges.
-
-There are 30 code challenges that will help you get the necessary practice of writing code, as well as teach you new methods and techniques.
-
-Just as with the class repo, you will fork & clone [the code challenges repo](https://github.com/SEIR-7-06/daily-js-code-challenges).
-
-<details>
-  <summary>Additional Coding Practice Resources</summary>
-  <h3>Codewars</h3>
-  <a href="https://www.codewars.com">Codewars</a> is an excellent source of coding challenges for numerous programming languages.
-  <p>It's free, so be sure to create an account so that you can track your progress.
-    Code challenges (called _Kata_) vary in difficulty from "8kyu" (easiest) to "1kyu".</p>
-</details>
-
-<br/>
+## Additional Resources
 
 <!-- Class Policies -->
 <details>
@@ -96,7 +62,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
   <details>
     <summary>Deliverable Submission Requirements</summary>
     <ul>
-      <li>Deliverables must be submitted following the <a href="#">PR Guidelines</a>.</li>
+      <li>Deliverables must be submitted following the <a href="https://github.com/SEIR-11-08/pull-request-template">PR Guidelines</a>.</li>
       <li>Students must meet deliverable requirements for the submission to be marked as "Complete".</li>
       <li>Deliverables are <i>always</i> due the following class day at the beginning of class, unless otherwise stated.</li>
       <li>There is a grace period for re-submission or late submission.  All re-submits/late submits are due the <b>Monday following the week of assignment</b>.
@@ -136,6 +102,27 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
 </details>
 
 <hr />
+
+<!-- Post Cohort Resources -->
+<details>
+  <summary>Post Cohort Resources</summary>
+  <p>This document provides you with a roadmap of how to continue your studies and strengthen your understanding of the material from the SEI course. Included are additional coding challenges, resources, and prompts to keep you coding in the weeks post-graduation. We hope it provides a springboard that keeps you learning!</p>
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <a href="https://github.com/SEIR-11-08/Post-Cohort-Resources">Post-Cohort Resources</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<hr />
+
+<br />
+
+## Schedule 
 
 <!-- Unit 1 Dropdown -->
 <details>
