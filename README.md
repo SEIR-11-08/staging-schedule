@@ -139,7 +139,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
 
 <!-- Unit 1 Dropdown -->
 <details>
-  <summary><strong>Unit 1</strong> - Fundamentals of Front-end Development</summary>
+  <summary><strong>Unit 1</strong> - Programming Fundamentals & Front-end Development</summary>
   <ul type="none">
     <!-- Week 1 Dropdown -->
     <li>
@@ -460,12 +460,6 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
         </table>
       </details>
     </li>
-  </ul>
-</details>
-<hr />
-<details>
-  <summary><strong>Unit 2</strong> - SQL Databases and Full-stack Development</summary>
-  <ul type="none">
     <!-- Week 4 Dropdown -->
     <li>
       <details> 
@@ -589,6 +583,15 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
         </table>
       </details>
     </li>
+  </ul>
+</details>
+
+<hr />
+
+<!-- Unit 2 Dropdown -->
+<details>
+  <summary><strong>Unit 2</strong> - SQL Databases & Full-stack Development</summary>
+  <ul type="none">
     <!-- Week 5 Dropdown -->
     <li>
       <details>
@@ -835,14 +838,6 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
         </table>
       </details>
     </li>
-  </ul>
-</details>
-<hr>
-
-<!-- Unit 3 Dropdown -->
-<details>
-  <summary><strong>Unit 3</strong> - React</summary>
-  <ul type="none">
     <!-- Week 7 Dropdown -->
     <li>
       <details> 
@@ -954,6 +949,15 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
         </table>
       </details>
     </li>
+  </ul>
+</details>
+
+<hr />
+
+<!-- Unit 3 Dropdown -->
+<details>
+<summary><strong>Unit 3</strong> - NoSQL Databases & React</summary>
+  <ul type="none">
     <!-- Holiday Week Dropdown -->
     <li>
       <details>
@@ -1346,7 +1350,9 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
     </li>
   </ul>
 </details>
-<hr/>
+
+<hr />
+
 <!-- Unit 4 Dropdown -->
 <details>
   <summary><strong>Unit 4</strong> - Python, CS Topics, and Final Project</summary>
@@ -1354,7 +1360,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
     <!-- Week 11 Dropdown -->
     <li>
       <details>
-        <summary>Week 11 - Python, SQL, and Project</summary>
+        <summary>Week 11 - TBD</summary>
         <h2>Week 11 - Schedule</h2>
         <!-- Schedule Table -->
         <table>
@@ -1477,7 +1483,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
     <!-- Week 12 Dropdown -->
     <li>
       <details>
-        <summary>Week 12 - Final Project & Optional Lessons</summary>
+        <summary>Week 12 - TBD</summary>
         <h2>Week 12 - Schedule</h2>
         <table>
           <thead>
@@ -1599,7 +1605,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
     <!-- Week 13 Dropdown -->
     <li>
       <details>
-        <summary>Week 13 - Presentations & Graduation</summary>
+        <summary>Week 13 - Final Project</summary>
         <!-- Schedule Table -->
         <h2>Week 13 - Schedule</h2>
         <table>
