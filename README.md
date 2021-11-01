@@ -19,8 +19,6 @@
 
 - November 8, 2021 - February 14th, 2022
 
-<br/>
-
 ## Holidays
 
 - November 11
@@ -38,7 +36,7 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
 
 <br />
 
-## Additional Resources
+## Resources and Exercises
 
 <!-- Class Policies -->
 <details>
@@ -100,6 +98,26 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
   </ul>
   </details>
 </details>
+
+<hr />
+
+<details>
+  <summary>Daily Exercises</summary>
+  <p>
+    It takes many multiple instances of repetitive practice before a student develops "comfort" with a new concept. It is highly recommended you spend time daily practicing the fundamentals. Below is a list of additional exercises for you to practice and get additional repetitions in.
+  </p>
+  <ul>
+    <li>
+      <a href="https://github.com/SEIR-11-08/daily-js-code-challenges">Daily JavaScript Code Challenges</a>
+    </li>
+    <li>
+      <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript">FreeCodeCamp JavaScript</a>
+    </li>
+  </ul>
+</details>
+
+
+
 
 <hr />
 
