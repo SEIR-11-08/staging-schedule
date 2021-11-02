@@ -6,7 +6,7 @@
 ## Important Links
 
 - [Zoom Classroom](#)
-- [Class Recordings](https://github.com/SEIR-11-08/schedule/blob/master/class-recordings.md)
+- [Class Recordings](class-recordings.md)
 - [Course Curriculum](course-curriculum.md)
 - [Class Culture/Expectations](https://github.com/SEIR-11-08/welcome-to-sei)
 - [Remote Class Expectations](https://github.com/SEIR-11-08/remote-class-expectations)
