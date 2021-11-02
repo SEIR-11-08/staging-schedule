@@ -7,13 +7,11 @@
 
 - [Zoom Classroom](#)
 - [Class Recordings](https://github.com/SEIR-11-08/schedule/blob/master/class-recordings.md)
-- [Course Curriculum](https://github.com/SEIR-11-08/schedule/blob/master/course-curriculum.md)
+- [Course Curriculum](course-curriculum.md)
 - [Class Culture/Expectations](https://github.com/SEIR-11-08/welcome-to-sei)
 - [Remote Class Expectations](https://github.com/SEIR-11-08/remote-class-expectations)
 - [How to Submit Deliverables](https://github.com/SEIR-11-08/deliverable-submissions)
 - [Installfest](https://github.com/SEIR-11-08/installfest-osx)
-
-<br/>
 
 ## Course Dates
 
@@ -129,7 +127,7 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
     <tbody>
       <tr>
         <td>
-          <a href="https://github.com/SEIR-11-08/Post-Cohort-Resources">Post-Cohort Resources</a>
+          <a href="https://github.com/SEIR-11-08/post-cohort-resources">Post-Cohort Resources</a>
         </td>
       </tr>
     </tbody>
