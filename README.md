@@ -165,14 +165,14 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
             <tr>
               <td><strong>Monday</strong><br />(11/8)</td>
               <td>
-                - <a href="https://github.com/SEIR-11-08/welcome-to-sei">Welcome to GA</a>
+                - <a href="https://github.com/SEIR-11-08/welcome-to-sei">Welcome to SEI</a>
                 <br>
               </td>
               <td>
                 - <a href="https://github.com/SEIR-11-08/installfest-osx">Installfest</a>
               </td>
               <td>
-                - <a href="https://gasei.gitbook.io/sei/01-workflow/01readme">Lesson: Command Line</a>
+                - <a href="https://gasei.gitbook.io/sei/01-workflow/01readme">Command Line</a>
                 <br>
                 - <a href="https://github.com/SEIR-11-08/command-line-mansion">Lab: Command Line Mansion</a>
               </td>
@@ -184,40 +184,40 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
             <tr>
               <td><strong>Tuesday</strong><br />(11/9)</td>
               <td>
-                - <a href="https://gasei.gitbook.io/sei/03-html-css/html-review">Review: HTML / CSS </a>
-                <br>
-                - <a href="https://github.com/SEIR-11-08/css-airbnb">Lab: CSS: Airbnb</a>
+                - <a href="https://github.com/SEIR-11-08/github">Intro to Git & GitHub</a>
               </td>
               <td>
-                - <a href="https://github.com/SEIR-11-08/github">Lesson: Git / GitHub</a>
+                - <a href="https://gasei.gitbook.io/sei/03-html-css/html-review">Intro to HTML</a>
                 <br>
-                - <a href="https://github.com/SEIR-11-08/git-fork-clone-practice">Fork and Clone Practice</a>
-                <br>
-                - <a href="https://github.com/SEIR-11-08/git-pull-request-practice">Pull Request Practice</a>
+                - <a href="https://github.com/SEIR-11-08/html-user-inputs">Lab: HTML User Inputs</a>
               </td>
               <td>
-                - <a href="#">TBD</a>
+                - <a href="https://gasei.gitbook.io/sei/03-html-css/css-selectors">Intro to CSS</a>
+                <br>
+                - <a href="https://github.com/SEIR-11-08/css-airbnb">Lab: CSS Airbnb</a>
               </td>
               <td>
-                - <a href="#">TBD</a>
+                - <a href="https://cssgridgarden.com/">CSS Grid Garden</a>
               </td>
-              <td>Intro to Programming, and Git</td>
+              <td>HTML, CSS, and Git</td>
             </tr>
             <tr>
               <td><strong>Wednesday</strong><br />(11/10)</td>
               <td>
-                - <a href="#">TBD</a>
+                - <a href="https://github.com/SEIR-11-08/css-instagram">Morning Lab: CSS Instagram</a>
+              </td>
+              <td>
+                - <a href="https://gasei.gitbook.io/sei/javascript">Intro to JavaScript</a>
+              </td>
+              <td>
+                - <a href="https://github.com/SEIR-11-08/conditionals-and-loops">JS Conditionals & Loops</a>
+                <br>
+                - <a href="https://github.com/SEIR-11-08/js-basic-loops">Lab: JS Basic Loops</a>
               </td>
               <td>
                 - <a href="#">TBD</a>
               </td>
-              <td>
-                - <a href="#">TBD</a>
-              </td>
-              <td>
-                - <a href="#">TBD</a>
-              </td>
-              <td>JavaScript Arrays and Loops</td>
+              <td>JavaScript Basics</td>
             </tr>
             <tr>
               <td><strong>Thursday</strong><br />(11/11)</td>
@@ -226,18 +226,18 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
             <tr>
               <td><strong>Friday</strong><br />(11/12)</td>
               <td>
-                - <a href="#">TBD</a>
+                - <a href="https://github.com/SEIR-11-08/arrays-and-iteration">JS Arrays and Iteration</a>
               </td>
               <td>
                 - <a href="#">TBD</a>
               </td>
               <td>
-                - <a href="#">TBD</a>
+                - <a href="https://github.com/SEIR-11-08/js-conditionals-loops-functions">Lab: JS Conditionals, Loops, and Functions</a>
               </td>
               <td>
                 - <a href="#">TBD</a>
               </td>
-              <td>More DOM Manipulation</td>
+              <td>More JS Loops, Arrays, Conditionals and Functions</td>
             </tr>
           </tbody>
         </table>
@@ -260,13 +260,27 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
               </td>
               <td>11/10</td>
             </tr>
+            <tr>
+              <td>11/10</td>
+              <td>
+                <a href="https://github.com/SEIR-11-08/js-debugger">JS Debugger</a>
+              </td>
+              <td>11/12</td>
+            </tr>
+            <tr>
+              <td>11/12</td>
+              <td>
+                <a href="https://github.com/SEIR-11-08/loops-conditionals-hw">JS Loops & Conditionals</a>
+              </td>
+              <td>11/16</td>
+            </tr>
           </tbody>
         </table>
       </details>
     </li>
     <li>
       <details>
-        <summary>Week 2 - Advanced JavaSCript, The DOM</summary>
+        <summary>Week 2 - Advanced JavaScript, The DOM</summary>
         <!-- Schedule Table -->
         <h2>Week 2 - Schedule</h2>
         <table>
@@ -295,7 +309,7 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
               <td>
                 - <a href="#">TBD</a>
               </td>
-              <td>TBD</td>
+              <td>JS Functions</td>
             </tr>
             <tr>
               <td><strong>Tuesday</strong><br />(11/16)</td>
@@ -311,7 +325,7 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
               <td>
                 - <a href="#">TBD</a>
               </td>
-              <td>TBD</td>
+              <td>JS Mixed Data Types, AJAX</td>
             </tr>
             <tr>
               <td><strong>Wednesday</strong><br />(11/17)</td>
@@ -327,7 +341,7 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
               <td>
                 - <a href="#">TBD</a>
               </td>
-              <td>TBD</td>
+              <td>Timeouts and Intervals</td>
             </tr>
             <tr>
               <td><strong>Thursday</strong><br />(11/18)</td>
@@ -347,9 +361,19 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
             </tr>
             <tr>
               <td><strong>Friday</strong><br />(11/19)</td>
-              <td colspan="5" align="center">
-                - <a href="https://github.com/SEIR-11-08/tic-tac-toe">Tic Tac Toe</a>
+              <td>
+                - <a href="#">TBD</a>
               </td>
+              <td>
+                - <a href="#">TBD</a>
+              </td>
+              <td>
+                - <a href="#">TBD</a>
+              </td>
+              <td>
+                - <a href="#">TBD</a>
+              </td>
+              <td>DOM Events & DOM Manipulation</td>
             </tr>
           </tbody>
         </table>
@@ -368,16 +392,16 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
             <tr>
               <td>TBD</td>
               <td>
-                <a href="https://github.com/SEIR-11-08/js-debugger">JS Debugger</a>
+                <a href="https://github.com/SEIR-11-08/functions-scope-hw">JS Functions & Scope</a>
               </td>
               <td>TBD</td>
             </tr>
             <tr>
-              <td>11/19</td>
+              <td>TBD</td>
               <td>
-                <a href="https://github.com/SEIR-11-08/tic-tac-toe">Tic Tac Toe</a>
+                <a href="https://github.com/SEIR-11-08/mixed-data-types-hw">JS Mixed Data Types</a>
               </td>
-              <td>11/22</td>
+              <td>TBD</td>
             </tr>
           </tbody>
         </table>
@@ -385,7 +409,7 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
     </li>
     <li>
       <details>
-        <summary>Week 3 - TBD</summary>
+        <summary>Week 3 - Tic Tac Toe</summary>
         <!-- Schedule Table -->
         <h2>Week 3 Schedule</h2>
         <table>
@@ -402,35 +426,15 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
           <tbody>
             <tr>
               <td><strong>Monday</strong><br />(11/22)</td>
-              <td>
-                - <a href="#">TBD</a>
+              <td colspan="5" align="center">
+                <a href="https://github.com/SEIR-11-08/tic-tac-toe">Tic Tac Toe</a>
               </td>
-              <td>
-                - <a href="#">TBD</a>
-              </td>
-              <td>
-                - <a href="#">TBD</a>
-              </td>
-              <td>
-                - <a href="#">TBD</a>
-              </td>
-              <td>TBD</td>
             </tr>
             <tr>
               <td><strong>Tuesday</strong><br />(11/23)</td>
-              <td>
-                - <a href="#">TBD</a>
+              <td colspan="5">
+                - <a href="https://github.com/SEIR-11-08/tic-tac-toe">Tic Tac Toe</a>
               </td>
-              <td>
-                - <a href="#">TBD</a>
-              </td>
-              <td>
-                - <a href="#">TBD</a>
-              </td>
-              <td>
-                - <a href="#">TBD</a>
-              </td>
-              <td>TBD</td>
             </tr>
             <tr>
               <td><strong>Wednesday</strong><br />(11/24)</td>
@@ -561,7 +565,7 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
     <!-- Week 5 Dropdown -->
     <li>
       <details>
-        <summary>Week 5 - SQL Database</summary>
+        <summary>Week 5 - SQL, PostgreSQL, Sequelize</summary>
         <!-- Schedule Table -->
         <h2>Week 5 - Schedule</h2>
         <table>
@@ -807,7 +811,7 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
     <!-- Week 7 Dropdown -->
     <li>
       <details> 
-        <summary>Week 7 - Project: </summary>
+        <summary>Week 7 - Group Project </summary>
         <!-- Schedule Table -->
         <h2>Week 7 Schedule</h2>
         <table>
@@ -969,7 +973,7 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
     <!-- Week 8 Dropdown -->
     <li>
       <details>
-        <summary>Week 8 - TBD</summary>
+        <summary>Week 8 - React</summary>
         <!-- Schedule Table -->
         <h2>Week 8 Schedule</h2>
         <table>
@@ -1091,7 +1095,7 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
     </li>
     <li>
       <details>
-        <summary>Week 9 - React & Project Time</summary>
+        <summary>Week 9 - MongoDB and Mongoose</summary>
         <!-- Schedule Table -->
         <h2>Week 9 Schedule</h2>
         <table>
@@ -1213,7 +1217,7 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
     </li>
      <li>
       <details> 
-        <summary>Week 10 - React Project</summary>
+        <summary>Week 10 - Project Wayfarer</summary>
         <!-- Schedule Table -->
         <h2>Week 10 Schedule</h2>
         <table>
