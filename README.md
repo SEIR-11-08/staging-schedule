@@ -157,7 +157,7 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
               <th>Morning Exercise</th>
               <th>Module 1</th>
               <th>Module 2</th>
-              <th>Extra Content</th>
+              <th>Bonus Material</th>
               <th>Focus</th>
             </tr>
           </thead>
@@ -165,23 +165,35 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
             <tr>
               <td><strong>Monday</strong><br />(11/8)</td>
               <td>
-                - <a href="#">TBD</a>
+                - <a href="https://github.com/SEIR-11-08/welcome-to-sei">Welcome to GA</a>
+                <br>
               </td>
               <td>
-                - <a href="#">TBD</a>
+                - <a href="https://github.com/SEIR-11-08/installfest-osx">Installfest</a>
               </td>
               <td>
-                - <a href="#">TBD</a>
+                - <a href="https://gasei.gitbook.io/sei/01-workflow/01readme">Lesson: Command Line</a>
+                <br>
+                - <a href="https://github.com/SEIR-11-08/command-line-mansion">Lab: Command Line Mansion</a>
               </td>
               <td>
-                - <a href="#">TBD</a>
+                - <a href="https://github.com/SEIR-11-08/command-line-murder-mystery">Command Line Murder Mystery</a>
               </td>
-              <td>TBD</td>
+              <td>Setup and Terminal Basics</td>
             </tr>
             <tr>
               <td><strong>Tuesday</strong><br />(11/9)</td>
               <td>
-                - <a href="#">TBD</a>
+                - <a href="https://gasei.gitbook.io/sei/03-html-css/html-review">Review: HTML / CSS </a>
+                <br>
+                - <a href="https://github.com/SEIR-11-08/css-airbnb">Lab: CSS: Airbnb</a>
+              </td>
+              <td>
+                - <a href="https://github.com/SEIR-11-08/github">Lesson: Git / GitHub</a>
+                <br>
+                - <a href="https://github.com/SEIR-11-08/git-fork-clone-practice">Fork and Clone Practice</a>
+                <br>
+                - <a href="https://github.com/SEIR-11-08/git-pull-request-practice">Pull Request Practice</a>
               </td>
               <td>
                 - <a href="#">TBD</a>
@@ -189,10 +201,7 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
               <td>
                 - <a href="#">TBD</a>
               </td>
-              <td>
-                - <a href="#">TBD</a>
-              </td>
-              <td>TBD</td>
+              <td>Intro to Programming, and Git</td>
             </tr>
             <tr>
               <td><strong>Wednesday</strong><br />(11/10)</td>
@@ -208,7 +217,7 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
               <td>
                 - <a href="#">TBD</a>
               </td>
-              <td>TBD</td>
+              <td>JavaScript Arrays and Loops</td>
             </tr>
             <tr>
               <td><strong>Thursday</strong><br />(11/11)</td>
@@ -228,7 +237,7 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
               <td>
                 - <a href="#">TBD</a>
               </td>
-              <td>TBD</td>
+              <td>More DOM Manipulation</td>
             </tr>
           </tbody>
         </table>
@@ -245,11 +254,11 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
           </thead>
           <tbody>
             <tr>
-              <td>TBD</td>
+              <td>11/9</td>
               <td>
-                <a href="#">HW 1</a>
+                <a href="https://github.com/SEIR-11-08/css-games">CSS Games</a>
               </td>
-              <td>TBD</td>
+              <td>11/10</td>
             </tr>
           </tbody>
         </table>
@@ -257,7 +266,7 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
     </li>
     <li>
       <details>
-        <summary>Week 2 - Advanced Objects, The DOM</summary>
+        <summary>Week 2 - Advanced JavaSCript, The DOM</summary>
         <!-- Schedule Table -->
         <h2>Week 2 - Schedule</h2>
         <table>
@@ -267,7 +276,7 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
               <th>Morning Exercise</th>
               <th>Module 1</th>
               <th>Module 2</th>
-              <th>Extra Content</th>
+              <th>Bonus Material</th>
               <th>Focus</th>
             </tr>
           </thead>
@@ -334,23 +343,13 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
               <td>
                 - <a href="#">TBD</a>
               </td>
-              <td>TBD</td>
+              <td>DOM Events & DOM Manipulation</td>
             </tr>
             <tr>
               <td><strong>Friday</strong><br />(11/19)</td>
-              <td>
-                - <a href="#">TBD</a>
+              <td colspan="5" align="center">
+                - <a href="https://github.com/SEIR-11-08/tic-tac-toe">Tic Tac Toe</a>
               </td>
-              <td>
-                - <a href="#">TBD</a>
-              </td>
-              <td>
-                - <a href="#">TBD</a>
-              </td>
-              <td>
-                - <a href="#">TBD</a>
-              </td>
-              <td>TBD</td>
             </tr>
           </tbody>
         </table>
@@ -369,9 +368,16 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
             <tr>
               <td>TBD</td>
               <td>
-                <a href="#">HW 1</a>
+                <a href="https://github.com/SEIR-11-08/js-debugger">JS Debugger</a>
               </td>
               <td>TBD</td>
+            </tr>
+            <tr>
+              <td>11/19</td>
+              <td>
+                <a href="https://github.com/SEIR-11-08/tic-tac-toe">Tic Tac Toe</a>
+              </td>
+              <td>11/22</td>
             </tr>
           </tbody>
         </table>
@@ -379,7 +385,7 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
     </li>
     <li>
       <details>
-        <summary>Week 3 - Project Zero</summary>
+        <summary>Week 3 - TBD</summary>
         <!-- Schedule Table -->
         <h2>Week 3 Schedule</h2>
         <table>
@@ -389,7 +395,7 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
               <th>Morning Exercise</th>
               <th>Module 1</th>
               <th>Module 2</th>
-              <th>Extra Content</th>
+              <th>Bonus Material</th>
               <th>Focus</th>
             </tr>
           </thead>
@@ -466,7 +472,7 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
     <!-- Week 4 Dropdown -->
     <li>
       <details> 
-        <summary>Week 4 - Node & Express</summary>
+        <summary>Week 4 - Project Zero</summary>
         <!-- Schedule Table -->
         <h2>Week 4 Schedule</h2>
         <table>
@@ -476,90 +482,47 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
               <th>Morning Exercise</th>
               <th>Module 1</th>
               <th>Module 2</th>
-              <th>Extra Content</th>
+              <th>Bonus Material</th>
               <th>Focus</th>
             </tr>
           </thead>
           <tbody>
             <tr>
               <td><strong>Monday</strong><br />(11/29)</td>
-              <td>
-                - <a href="#">TBD</a>
+              <td>Morning Standup</td>
+              <td colspan="4" align="center">
+                <a href="https://github.com/SEIR-11-08/project-zero">Project Zero</a>
               </td>
-              <td>
-                - <a href="#">TBD</a>
-              </td>
-              <td>
-                - <a href="#">TBD</a>
-              </td>
-              <td>
-                - <a href="#">TBD</a>
-              </td>
-              <td>TBD</td>
             </tr>
             <tr>
               <td><strong>Tuesday</strong><br />(11/30)</td>
-              <td>
-                - <a href="#">TBD</a>
+              <td>Morning Standup</td>
+              <td colspan="4" align="center">
+                <a href="https://github.com/SEIR-11-08/project-zero">Project Zero</a>
               </td>
-              <td>
-                - <a href="#">TBD</a>
-              </td>
-              <td>
-                - <a href="#">TBD</a>
-              </td>
-              <td>
-                - <a href="#">TBD</a>
-              </td>
-              <td>TBD</td>
             </tr>
             <tr>
               <td><strong>Wednesday</strong><br />(12/1)</td>
-              <td>
-                - <a href="#">TBD</a>
+              <td>Morning Standup</td>
+              <td colspan="4" align="center">
+                <a href="https://github.com/SEIR-11-08/project-zero">Project Zero</a>
               </td>
-              <td>
-                - <a href="#">TBD</a>
-              </td>
-              <td>
-                - <a href="#">TBD</a>
-              </td>
-              <td>
-                - <a href="#">TBD</a>
-              </td>
-              <td>TBD</td>
             </tr>
             <tr>
               <td><strong>Thursday</strong><br />(12/2)</td>
-              <td>
-                - <a href="#">TBD</a>
+              <td>Morning Standup</td>
+              <td colspan="4" align="center">
+                <a href="https://github.com/SEIR-11-08/project-zero">Project Zero</a>
               </td>
-              <td>
-                - <a href="#">TBD</a>
-              </td>
-              <td>
-                - <a href="#">TBD</a>
-              </td>
-              <td>
-                - <a href="#">TBD</a>
-              </td>
-              <td>TBD</td>
             </tr>
             <tr>
               <td><strong>Friday</strong><br />(12/3)</td>
-              <td>
-                - <a href="#">TBD</a>
+              <td colspan="2">
+                Project Zero Presentations
               </td>
-              <td>
-                - <a href="#">TBD</a>
+              <td colspan="3">
+                Unit 1 Assessment
               </td>
-              <td>
-                - <a href="#">TBD</a>
-              </td>
-              <td>
-                - <a href="#">TBD</a>
-              </td>
-              <td>TBD</td>
             </tr>
           </tbody>
         </table>
@@ -576,11 +539,11 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
           </thead>
           <tbody>
             <tr>
-              <td>TBD</td>
+              <td>11/29</td>
               <td>
-                <a href="#">HW 1</a>
+                <a href="https://github.com/SEIR-11-08/project-zero">Project Zero</a>
               </td>
-              <td>TBD</td>
+              <td>12/3</td>
             </tr>
           </tbody>
         </table>
@@ -598,7 +561,7 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
     <!-- Week 5 Dropdown -->
     <li>
       <details>
-        <summary>Week 5 - Servers & Databases Continued</summary>
+        <summary>Week 5 - SQL Database</summary>
         <!-- Schedule Table -->
         <h2>Week 5 - Schedule</h2>
         <table>
@@ -608,7 +571,7 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
               <th>Morning Exercise</th>
               <th>Module 1</th>
               <th>Module 2</th>
-              <th>Extra Content</th>
+              <th>Bonus Material</th>
               <th>Focus</th>
             </tr>
           </thead>
@@ -721,7 +684,7 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
     <!-- Week 6 Dropdown -->
     <li>
       <details>
-        <summary>Week 6 - Project: Express, Mongo DB, and Node</summary>
+        <summary>Week 6 - Express and REST APIs</summary>
         <!-- Schedule Table -->
         <h2>Week 6 Schedule</h2>
         <table>
@@ -731,7 +694,7 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
               <th>Morning Exercise</th>
               <th>Module 1</th>
               <th>Module 2</th>
-              <th>Extra Content</th>
+              <th>Bonus Material</th>
               <th>Focus</th>
             </tr>
           </thead>
@@ -844,7 +807,7 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
     <!-- Week 7 Dropdown -->
     <li>
       <details> 
-        <summary>Week 7 - React</summary>
+        <summary>Week 7 - Project: </summary>
         <!-- Schedule Table -->
         <h2>Week 7 Schedule</h2>
         <table>
@@ -854,7 +817,7 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
               <th>Morning Exercise</th>
               <th>Module 1</th>
               <th>Module 2</th>
-              <th>Extra Content</th>
+              <th>Bonus Material</th>
               <th>Focus</th>
             </tr>
           </thead>
@@ -1016,7 +979,7 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
               <th>Morning Exercise</th>
               <th>Module 1</th>
               <th>Module 2</th>
-              <th>Extra Content</th>
+              <th>Bonus Material</th>
               <th>Focus</th>
             </tr>
           </thead>
@@ -1109,6 +1072,13 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
         <table>
           <thead>
             <tr>
+              <td>Date Assigned</td>
+              <td>Deliverable</td>
+              <td>Final Due Date</td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
               <td>TBD</td>
               <td>
                 <a href="#">HW 1</a>
@@ -1131,7 +1101,7 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
               <th>Morning Exercise</th>
               <th>Module 1</th>
               <th>Module 2</th>
-              <th>Extra Content</th>
+              <th>Bonus Material</th>
               <th>Focus</th>
             </tr>
           </thead>
@@ -1253,7 +1223,7 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
               <th>Morning Exercise</th>
               <th>Module 1</th>
               <th>Module 2</th>
-              <th>Extra Content</th>
+              <th>Bonus Material</th>
               <th>Focus</th>
             </tr>
           </thead>
@@ -1373,7 +1343,7 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
               <th>Morning Exercise</th>
               <th>Module 1</th>
               <th>Module 2</th>
-              <th>Extra Content</th>
+              <th>Bonus Material</th>
               <th>Focus</th>
             </tr>
           </thead>
@@ -1495,7 +1465,7 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
               <th>Morning Exercise</th>
               <th>Module 1</th>
               <th>Module 2</th>
-              <th>Extra Content</th>
+              <th>Bonus Material</th>
               <th>Focus</th>
             </tr>
           </thead>
@@ -1618,7 +1588,7 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
               <th>Morning Exercise</th>
               <th>Module 1</th>
               <th>Module 2</th>
-              <th>Extra Content</th>
+              <th>Bonus Material</th>
               <th>Focus</th>
             </tr>
           </thead>
@@ -1741,7 +1711,7 @@ Sat + Sun: 11:00am - 3:00pm Pacific Time<br/>
               <th>Morning Exercise</th>
               <th>Module 1</th>
               <th>Module 2</th>
-              <th>Extra Content</th>
+              <th>Bonus Material</th>
               <th>Focus</th>
             </tr>
           </thead>
